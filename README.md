@@ -9,6 +9,8 @@ This project has been created as part of a final year software engineering modul
 ## Code Style 
 
 ## Screenshots 
+![Screenshot](https://user-images.githubusercontent.com/26166154/55710837-62b52e00-59e3-11e9-9597-7ee2884309f9.png)
+
 
 ## Technologies and Frameworks Used
 - Arduino IDE
