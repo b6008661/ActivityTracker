@@ -2,11 +2,7 @@
 A device that tracks steps, calories and heart rate using an Arduino Uno, accelorometer, and pulse sensor. This data is sent through a bluetooth module, connected to the Arduino board, to an Android app. 
 
 ## Motivation
-This project has been created as part of a final year software engineering module. 
-
-## Build Status 
-
-## Code Style 
+This project has been created as part of a final year software engineering module. The module requires the exploration of physcial components that can be programmed along with the Internet Of Things. Having used activity tracker watches and apps on mobile phones, we wanted to create our own version to see how they work behind the scenes. 
 
 ## Screenshots 
 ![Screenshot](https://user-images.githubusercontent.com/26166154/55710837-62b52e00-59e3-11e9-9597-7ee2884309f9.png)
@@ -47,7 +43,10 @@ Displays:
 - View the estimated number of calories burned and the distance tou travel too. 
 - Be careful, watch out for hour heart rate to display in red. It should sit between 60 and 100 beats per minute!
 
+## Contributors
+- https://github.com/b6008661
+-https://github.com/ninafauziashari 
 
 ## Credits
-
-## License 
+- PulseSensorPlayground
+- AcceleroMMA7361
