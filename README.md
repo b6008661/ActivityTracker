@@ -11,6 +11,7 @@ This project has been created as part of a final year software engineering modul
 ## Screenshots 
 ![Screenshot](https://user-images.githubusercontent.com/26166154/55710837-62b52e00-59e3-11e9-9597-7ee2884309f9.png)
 ![Screenshot2](https://user-images.githubusercontent.com/26166154/55710957-a3ad4280-59e3-11e9-9632-7a70d5ed9493.png)
+![Screenshot3](https://user-images.githubusercontent.com/26166154/55711032-d0615a00-59e3-11e9-982a-0d2afd2480fb.png)
 
 
 ## Technologies and Frameworks Used
